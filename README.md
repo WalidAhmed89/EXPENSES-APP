@@ -1,1 +1,3 @@
 # EXPENSES-APP
+
+## Project Notes
